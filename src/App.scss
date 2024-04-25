@@ -1,0 +1,17 @@
+$primary-color-red:#EF3D5B;
+$primary-color-blue:#61BFD3;
+
+@import 'animate.css';
+
+@font-face {
+  font-family:'Space Mono';
+  src: url(./assets/fonts/spacemono-regular-webfont.woff) format('wof');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mulish';
+  src: url(./assets/fonts/mulish-variablefont_wght-webfont.woff) format('wof');
+  font-weight: normal;
+  font-style: normal;
+}
