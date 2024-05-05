@@ -18,7 +18,7 @@
     animation-delay: 1s;
 }
 
-.about-page{
+.about-page, .contact-page, .projects-page {
 
     h1{
         font-size: 53px;
@@ -32,7 +32,7 @@
     }
     
     p {
-      font-size: 14px;
+      font-size: 16px;
       color: #fff;
       font-family: sans-serif;
       font-weight: 300;
