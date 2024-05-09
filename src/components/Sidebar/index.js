@@ -1,32 +1,35 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import LogoAm from '../../assets/images/logo.svg'
 import './index.scss'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelopesBulk,faHouseLaptop, faLaptopCode ,faUserNinja} from '@fortawesome/free-solid-svg-icons';
+import { faBars, faClose, faEnvelopesBulk,faHouseLaptop, faLaptopCode ,faUserNinja} from '@fortawesome/free-solid-svg-icons';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 
 
 const Sidebar = () => {
+    const [showNav, setShowNav] =useState(false);
+
     return (
         <div className='nav-bar'>
-            <Link className='logo' to="/">
+            <Link className='logo' to="/" onClick={() => setShowNav(false)}>
               <img src={LogoAm} alt='logo AM'/>
             </Link>
-            <nav>
-            <NavLink exact="true" activeclassname="active" to="/">
+            <nav className={showNav ? 'mobile-show' : ''}>
+            <NavLink exact="true" activeclassname="active" to="/" onClick={() => setShowNav(false)}>
                 <FontAwesomeIcon icon={faHouseLaptop} color='#61BFD3'/>
             </NavLink>  
-            <NavLink exact="true" activeclassname="active" className="about-link" to="about">
+            <NavLink exact="true" activeclassname="active" className="about-link" to="about" onClick={() => setShowNav(false)}>
                 <FontAwesomeIcon icon={faUserNinja} color='#61BFD3'/>
             </NavLink>   
-            <NavLink exact="true" activeclassname="active" className="projects-link" to="projects">
+            <NavLink exact="true" activeclassname="active" className="projects-link" to="projects" onClick={() => setShowNav(false)}>
                 <FontAwesomeIcon icon={faLaptopCode} color='#61BFD3'/>
             </NavLink> 
-            <NavLink exact="true" activeclassname="active" className="contact-link" to="contact">
+            <NavLink exact="true" activeclassname="active" className="contact-link" to="contact" onClick={() => setShowNav(false)}>
                 <FontAwesomeIcon icon={faEnvelopesBulk} color='#61BFD3'/>
-            </NavLink>     
+            </NavLink>  
+            <FontAwesomeIcon icon={faClose} color='#EF3D5B' size='3x' className='close-icon' onClick={() => setShowNav(false)}/>
             </nav>
             <ul>
                 <li>
@@ -40,8 +43,10 @@ const Sidebar = () => {
                     </a>
                 </li>
             </ul>
+            <FontAwesomeIcon icon={faBars} color='#61BFD3' size='3x' className='hamburger-icon' onClick={() => setShowNav(true)}/>
         </div>
     );
 };
+
 
 export default Sidebar;

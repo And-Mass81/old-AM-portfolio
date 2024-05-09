@@ -13,6 +13,7 @@ h1{
     font-size: 55px;
     margin: 0;
     font-weight: 600;
+    line-height: 1.2;
 }
 
 
@@ -65,4 +66,65 @@ h2 {
         background: #EF3D5B ;
         color: #fff;
     }
+}
+
+.word-block{
+  display: block;
+  padding: 0;
+}
+
+@media screen and (max-width: 1200px) {
+
+  .home-page {
+    max-width: 350px;
+    .text-zone {
+      position: initial;
+      width: 100%;
+      transform: none;
+      padding: 10px;
+      box-sizing: border-box;
+      h1{
+        color: #fff;
+        font-size: 43px;
+        font-weight: 600;
+    }
+    h2{
+      text-align: center;
+      padding-bottom: 10px;
+    }
+    }
+
+
+    .logo-container {
+      position: relative;
+      width: 200px;
+      height: auto;
+      top: 50px;
+      right: 0;
+      box-sizing: border-box;
+      margin: auto;
+      left: 0;
+    }
+
+    .logo-container img {
+      position: absolute;
+      top: auto;
+      right: auto;
+      bottom: auto;
+      left: 0;
+      margin: auto;
+    }
+  }
+  .home-page .flat-button {
+    float: none;
+    display: block;
+    margin: 20px auto 0 auto;
+    width: 150px;
+    text-align: center;
+  }
+  .word-block{
+    display: block;
+    padding: 0;
+  }
+
 }

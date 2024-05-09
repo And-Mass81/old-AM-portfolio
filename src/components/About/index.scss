@@ -79,3 +79,18 @@ overflow: hidden;
       transform: rotateX(90deg);
     }
   }
+
+  @media screen and (max-width: 1200px) {
+    .stage-cube-count{
+     position: initial;
+     width: 100%;
+     overflow: visible;
+   }
+
+  }
+
+  @media screen and (max-width: 800px) {
+   span{
+        font-size: 48px;  
+      }
+  }

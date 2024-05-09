@@ -4,24 +4,38 @@
         {
             "cover":"/projects/Performance/perf.webp",
             "title":"Performance vélo",
-            "description":"Prestashop,graphisme web, référencement, maintenance",
-            "url":"https://performancevelo.com/"
-            
+            "description":"transfert de base de données entre ODOO et prestashop, graphisme web, référencement, maintenance",
+            "url":"https://performancevelo.com/",
+            "iconA":"/projects/skills/prestaL.svg",
+            "iconB":"/projects/skills/htmlL.svg",
+            "iconC":"/projects/skills/cssL.svg",
+            "iconD":"/projects/skills/Figma.svg",
+            "button":"Site"
         },
 
         {
             "cover":"/projects/loa/loa.webp",
             "title":"Louer mon vélo",
-            "description":"Wordpress,graphisme web, référencement, maintenance",
-            "url":"https://louermonvelo.com/"
+            "description":"création de site internet, graphisme web, référencement",
+            "url":"https://louermonvelo.com/",
+            "iconA":"/projects/skills/wordpressL.svg",
+            "iconB":"/projects/skills/htmlL.svg",
+            "iconC":"/projects/skills/cssL.svg",
+            "iconD":"/projects/skills/Figma.svg",
+            "button":"Site"
             
         },
 
         {
-            "cover":"/projects/Performance/perf.webp",
-            "title":"Performance vélo",
-            "description":"Prestashop,graphisme web, référencement, maintenance",
-            "url":"https://performancevelo.com/"
+            "cover":"/projects/sisley/sisley.png",
+            "title":"Espace Alfred Sisley",
+            "description":"création de site internet, graphisme web, référencement",
+            "url":"https://www.espacesisley.fr/",
+            "iconA":"/projects/skills/wordpressL.svg",
+            "iconB":"/projects/skills/htmlL.svg",
+            "iconC":"/projects/skills/cssL.svg",
+            "iconD":"/projects/skills/Figma.svg",
+            "button":"Site"
             
         },
 

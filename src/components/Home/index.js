@@ -39,12 +39,14 @@ const Home = () => {
             strArray={firstNameArray}
             idx={16}
           />
+          <span className='word-block'>
           <span className='letM'>M</span>
           <AnimatLetters letterClass={letterClass}
             strArray={lasttNameArray}
             idx={21}
           />
-          <br />
+          </span>
+          
           <AnimatLetters letterClass={letterClass}
             strArray={jobArray}
             idx={27}
