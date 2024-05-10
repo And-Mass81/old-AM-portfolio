@@ -36,18 +36,23 @@
     input[type='email'] {
       width: 100%;
       border: 0;
-      background: #2e3b44af;
+      background: #3a475086;
       height: 50px;
       font-size: 16px;
       color: #fff;
       padding: 0 20px;
       box-sizing: border-box;
     }
+    input::placeholder {
+      color: #fff;
+      font-family: 'Mulish',sans-serif;
+      font-weight: 500;
+    }
   
     textarea {
       width: 100%;
       border: 0;
-      background: #2e3b44af;
+      background: #3a475086;
       height: 50px;
       font-size: 16px;
       color: #fff;
@@ -55,6 +60,11 @@
       box-sizing: border-box;
       min-height: 150px;
     }
+    textarea::placeholder {
+      color: #fff; 
+      font-family: 'Mulish',sans-serif;
+      font-weight: 500;
+    }  
   
     .flat-button {
       color: #61BFD3;
@@ -70,6 +80,10 @@
       float: right;
       text-align: center;
       margin-right: 10px;
+    }
+    .flat-button:hover {
+     background-color: #ef3d5b; 
+     cursor: pointer; 
     }
   }
   

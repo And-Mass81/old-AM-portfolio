@@ -41,7 +41,7 @@ const Projects = () => {
                                     <button
                                         className="btn"
                                         onClick={() => window.open(proje.url)}
-                                    >View</button>
+                                    >{proje.button}</button>
                                 </div>
                             </div>
 

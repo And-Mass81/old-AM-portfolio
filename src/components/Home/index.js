@@ -7,6 +7,7 @@ import Loader from 'react-loaders';
 
 
 
+
 const Home = () => {
   const [letterClass, setletterClass] = useState('text-animate')
   const firstNameArray = ['n', 'd', 'r', 'é', 's']

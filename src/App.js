@@ -5,6 +5,7 @@ import './App.scss';
 import About from './components/About';
 import Contact from './components/Contact';
 import Projects from './components/Projects';
+import MentionLegal from './components/MentionsLegales';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route path="about" element={<About />} />
           <Route path="contact" element={<Contact />} />
           <Route path="projects" element={<Projects/>} />
+          <Route path="mentions" element={<MentionLegal/>} />
         </Route>
       </Routes>
     </>

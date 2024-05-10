@@ -1,12 +1,13 @@
 
-import logoS from  '../../../assets/images/logoFull.png';
+import logoS from  '../../../assets/images/logoOpt.png';
 import './index.scss';
+import { PowerGlitch } from 'powerglitch'
 
 
 
 
 const Logo = () => {
-
+    PowerGlitch.glitch('.logo-container')
     return (
 
         <div className='logo-container'>

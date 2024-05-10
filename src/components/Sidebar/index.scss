@@ -97,11 +97,14 @@
                 color: #EF3D5B;
             }
         }
+        .menu-hide{
+            display: none;
+        }
     }
 
     ul {
         position: absolute;
-        bottom: 40px;
+        bottom: 60px;
         width: 100%;
         display: block;
         padding: 0;
@@ -124,6 +127,7 @@
         }
     }
 }
+
 
 .hamburger-icon, .close-icon {
     display: none;
@@ -208,6 +212,9 @@
             svg {
                 color: #EF3D5B;
             }
+        }
+        .menu-hide{
+            display: block;
         }
        }
   
