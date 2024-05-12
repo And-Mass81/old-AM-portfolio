@@ -25,7 +25,7 @@ const MentionLegal = () => {
                     </h1>
                     <h2>Définitions</h2>
                     <p>
-                        Client : tout professionnel ou personne physique capable au sens des articles 1123 et suivants du Code civil, ou personne morale, qui visite le Site objet des présentes conditions générales. Prestations et Services : https://and-mass81.github.io/AMdesign/ met à disposition des Clients :
+                        Client : tout professionnel ou personne physique capable au sens des articles 1123 et suivants du Code civil, ou personne morale, qui visite le Site objet des présentes conditions générales.Prestations et Services : https://and-mass81.github.io/AMdesign/ met à disposition des Clients :
                         Contenu : Ensemble des éléments constituants l’information présente sur le Site, notamment textes – images – vidéos.<br/>
                         mations clients : Ci après dénommé « Information (s) » qui correspondent à l’ensemble des données personnelles susceptibles d’être détenues par https://and-mass81.github.io/AMdesign/ pour la gestion de votre compte, de la gestion de la relation client et à des fins d’analyses et de statistiques.
                         Utilisateur : Internaute se connectant, utilisant le site susnommé.<br />
@@ -34,7 +34,7 @@ const MentionLegal = () => {
                         <br />
                         1. Présentation du site internet.
                         En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site internet https://and-mass81.github.io/AMdesign/ l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi:
-                        Propriétaire : Andrès Massa – 15 roter road 42015 Saint-Étienne Responsable publication : Andrès Massa – andmass10@gmail.com Le responsable publication est une personne physique ou une personne morale. Webmaster : Andrès Massa – andmass10@gmail.com Hébergeur : ovh – 2 rue Kellermann 59100 Roubaix 1007 Délégué à la protection des données : Andrès Massa – andmass10@gmail.com
+                        Propriétaire : Andrès Massa – 15 roter road 42015 Saint-ÉtienneResponsable publication : Andrès Massa – andmass10@gmail.comLe responsable publication est une personne physique ou une personne morale.Webmaster : Andrès Massa – andmass10@gmail.comHébergeur : ovh – 2 rue Kellermann 59100 Roubaix 1007Délégué à la protection des données : Andrès Massa – andmass10@gmail.com
                          </p>
                         <p>2. Conditions générales d’utilisation du site et des services proposés. Le Site constitue une œuvre de l’esprit protégée par les dispositions du Code de la Propriété Intellectuelle et des Réglementations Internationales applicables.
                             Le Client ne peut en aucune manière réutiliser, céder ou exploiter pour son propre compte tout ou partie des éléments ou travaux du Site. L’utilisation du site https://and-mass81.github.io/AMdesign/ implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites. Ces conditions d’utilisation sont susceptibles d’être modifiées ou complétées à tout moment,
@@ -86,7 +86,7 @@ const MentionLegal = () => {
                             droit de définir le sort des données des Utilisateurs après leur mort et de choisir à qui https://and-mass81.github.io/AMdesign/ devra communiquer (ou non) ses données à un tiers qu’ils aura préalablement désigné
                             Dès que https://and-mass81.github.io/AMdesign/ a connaissance du décès d’un Utilisateur et à défaut d’instructions de sa part, https://and-mass81.github.io/AMdesign/ s’engage à détruire ses données, sauf si leur conservation s’avère nécessaire à des fins probatoires ou pour répondre à une obligation légale.
                             Si l’Utilisateur souhaite savoir comment https://and-mass81.github.io/AMdesign/ utilise ses Données Personnelles, demander à les rectifier ou s’oppose à leur traitement, l’Utilisateur peut contacter https://and-mass81.github.io/AMdesign/ par écrit à l’adresse suivante :
-                            Andrès Massa – DPO, Andrès Massa 15 roter road 42015 Saint-Étienne.
+                            Andrès Massa – DPO, Andrès Massa15 roter road 42015 Saint-Étienne.
                             Dans ce cas, l’Utilisateur doit indiquer les Données Personnelles qu’il souhaiterait que https://and-mass81.github.io/AMdesign/ corrige, mette à jour ou supprime, en s’identifiant précisément avec une copie d’une pièce d’identité (carte d’identité ou passeport).
                             Les demandes de suppression de Données Personnelles seront soumises aux obligations qui sont imposées à https://and-mass81.github.io/AMdesign/ par la loi, notamment en matière de conservation ou d’archivage des documents. Enfin, les Utilisateurs de https://and-mass81.github.io/AMdesign/ peuvent déposer une réclamation auprès des autorités de contrôle, et notamment de la CNIL (https://www.cnil.fr/fr/plaintes).
                             </p>

@@ -41,7 +41,7 @@ h2 {
     color:#d1d1d1;
     margin-top: 20px;
     font-weight: 400;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Space Mono',sans-serif;
     letter-spacing: 3px;
     animation: fadeIn 1s 1.8s backwards;
@@ -71,6 +71,30 @@ h2 {
 .word-block{
   display: block;
   padding: 0;
+}
+
+.logo-container {
+  z-index: 0;  
+  width: 450px;
+  height: 650px;
+  position: absolute;
+  top: 0;
+  right: 22%;
+  bottom: 0;
+  left: auto;
+  margin:  auto;
+  opacity: 1;
+
+  .solid-logo {
+    position: absolute;
+    top: 90px;
+    right: auto;
+    bottom: auto;
+    right: 30px;
+    margin: auto;
+    width: 100%;
+    opacity: 1; 
+  }
 }
 
 @media screen and (max-width: 1200px) {

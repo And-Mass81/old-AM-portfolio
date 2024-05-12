@@ -35,7 +35,8 @@
     input[type='text'],
     input[type='email'] {
       width: 100%;
-      border: 0;
+      border: 1px solid #ef3d5b;
+      border-radius: 3px;
       background: #3a475086;
       height: 50px;
       font-size: 16px;
@@ -59,6 +60,8 @@
       padding: 20px;
       box-sizing: border-box;
       min-height: 150px;
+      border: 1px solid #ef3d5b;
+      border-radius: 3px;
     }
     textarea::placeholder {
       color: #fff; 

@@ -3,18 +3,18 @@
         {
             "cover":"/projects/ArgentBank/argent.png",
             "title":"Argent Bank",
-            "description":" graphisme web, référencement, maintenance",
+            "description":" Application web avec identification des utilisateurs, récupération de données depuis une API (Formation OpenClassrooms).",
             "url":"https://github.com/And-Mass81/Projet-11-Agent-Bank",
             "iconA":"/projects/skills/reactLogo.svg",
             "iconB":"/projects/skills/ReduxL.svg",
-            "iconC":"/projects/skills/jsL.svg",
-            "iconD":"/projects/skills/Sass.png",
+            "iconC":"/projects/skills/Vitej.svg",
+            "iconD":"/projects/skills/swagger.svg",
             "button":"Code"
         },
         {
             "cover":"/projects/Kassa/kasa.webp",
             "title":"Kasa",
-            "description":" graphisme web, référencement, maintenance",
+            "description":" Application web de location d’appartements entre particuliers (Formation OpenClassrooms).",
             "url":"https://github.com/And-Mass81/kasa",
             "iconA":"/projects/skills/reactLogo.svg",
             "iconB":"/projects/skills/htmlL.svg",
@@ -22,7 +22,29 @@
             "iconD":"/projects/skills/Sass.png",
             "button":"Code"
         },
-        
+        {
+            "cover":"/projects/Events/events.webp",
+            "title":"724 events",
+            "description":"Débogage du site créé avec React de l'agence 724 (Formation OpenClassrooms).",
+            "url":"https://github.com/And-Mass81/Projet-10-OpenClassrooms",
+            "iconA":"/projects/skills/reactLogo.svg",
+            "iconB":"/projects/skills/yarn.svg",
+            "iconC":"/projects/skills/jsL.svg",
+            "iconD":"/projects/skills/cssL.svg",
+            "button":"Code"
+            
+        },
+         {
+            "cover":"/projects/sophie/sophie.webp",
+            "title":"Sophie Bluel portfolio",
+            "description":" Page Internet dynamique avec connexion administrateur (Formation OpenClassrooms).",
+            "url":"https://github.com/And-Mass81/Portfolio-architecte-sophie-bluel",
+            "iconA":"/projects/skills/jsL.svg",
+            "iconB":"/projects/skills/htmlL.svg",
+            "iconC":"/projects/skills/cssL.svg",
+            "iconD":"/projects/skills/swagger.svg",
+            "button":"Code"
+        },     
         {
             "cover":"/projects/Performance/perf.webp",
             "title":"Performance vélo",
@@ -64,7 +86,7 @@
         {
             "cover":"/projects/Graphisme/aka.webp",
             "title":"Graphisme web",
-            "description":"création de site internet, graphisme web, référencement",
+            "description":"Création de logo, charte graphique, graphisme web",
             "url":"https://www.pinterest.fr/andmass10/graphisme-web/",
             "iconA":"/projects/skills/wordpressL.svg",
             "iconB":"/projects/skills/htmlL.svg",
@@ -72,48 +94,6 @@
             "iconD":"/projects/skills/Figma.svg",
             "button":"Voir"
             
-        },
-
-        {
-            "cover":"/projects/sisley/sisley.png",
-            "title":"Espace Alfred Sisley",
-            "description":"création de site internet, graphisme web, référencement",
-            "url":"https://www.espacesisley.fr/",
-            "iconA":"/projects/skills/wordpressL.svg",
-            "iconB":"/projects/skills/htmlL.svg",
-            "iconC":"/projects/skills/cssL.svg",
-            "iconD":"/projects/skills/Figma.svg",
-            "button":"Site"
-            
-        },
-        {
-            "cover":"/projects/sisley/sisley.png",
-            "title":"Espace Alfred Sisley",
-            "description":"création de site internet, graphisme web, référencement",
-            "url":"https://www.espacesisley.fr/",
-            "iconA":"/projects/skills/wordpressL.svg",
-            "iconB":"/projects/skills/htmlL.svg",
-            "iconC":"/projects/skills/cssL.svg",
-            "iconD":"/projects/skills/Figma.svg",
-            "button":"Site"
-            
-        },
-
-        {
-            "cover":"/projects/sisley/sisley.png",
-            "title":"Espace Alfred Sisley",
-            "description":"création de site internet, graphisme web, référencement",
-            "url":"https://www.espacesisley.fr/",
-            "iconA":"/projects/skills/wordpressL.svg",
-            "iconB":"/projects/skills/htmlL.svg",
-            "iconC":"/projects/skills/cssL.svg",
-            "iconD":"/projects/skills/Figma.svg",
-            "button":"Site"
-            
         }
-   
-
-  
-
     ]
 }
