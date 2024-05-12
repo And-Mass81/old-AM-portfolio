@@ -3,7 +3,7 @@
         {
             "cover":"/projects/ArgentBank/argent.png",
             "title":"Argent Bank",
-            "description":" Application web avec identification des utilisateurs, récupération de données depuis une API (Formation OpenClassrooms).",
+            "description":" Application web avec identification , récupération de données depuis une API (Formation OpenClassrooms).",
             "url":"https://github.com/And-Mass81/Projet-11-Agent-Bank",
             "iconA":"/projects/skills/reactLogo.svg",
             "iconB":"/projects/skills/ReduxL.svg",
